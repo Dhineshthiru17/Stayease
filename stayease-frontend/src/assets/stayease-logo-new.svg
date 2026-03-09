@@ -1,0 +1,15 @@
+<svg width="320" height="92" viewBox="0 0 320 92" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">StayEase logo</title>
+  <desc id="desc">StayEase hotel booking logo with atom icon and wordmark</desc>
+
+  <g transform="translate(8,8)">
+    <ellipse cx="38" cy="26" rx="30" ry="12" stroke="#61DAFB" stroke-width="3.6" fill="none"/>
+    <ellipse cx="38" cy="26" rx="30" ry="12" transform="rotate(60 38 26)" stroke="#61DAFB" stroke-width="3.6" fill="none"/>
+    <ellipse cx="38" cy="26" rx="30" ry="12" transform="rotate(-60 38 26)" stroke="#61DAFB" stroke-width="3.6" fill="none"/>
+    <circle cx="38" cy="26" r="6.6" fill="#61DAFB"/>
+  </g>
+
+  <text x="88" y="44" font-family="Manrope, Segoe UI, Arial, sans-serif" font-size="32" font-weight="800" fill="#0E3A72" letter-spacing="0.5">STAY</text>
+  <text x="170" y="44" font-family="Manrope, Segoe UI, Arial, sans-serif" font-size="32" font-weight="400" fill="#0E3A72" letter-spacing="0.5">EASE</text>
+  <text x="89" y="68" font-family="Manrope, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#1B4D8E" letter-spacing="4">HOTEL BOOKING</text>
+</svg>

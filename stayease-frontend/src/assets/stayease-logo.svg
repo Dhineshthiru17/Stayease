@@ -1,0 +1,10 @@
+<svg width="260" height="72" viewBox="0 0 260 72" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">StayEase logo</title>
+  <desc id="desc">StayEase logo with roof icon and two tone text</desc>
+
+  <path d="M104 16L130 0L156 16V24L130 8L104 24V16Z" fill="#17356C"/>
+  <path d="M111 28L130 16L149 28V33L130 22L111 33V28Z" fill="#11A64A"/>
+
+  <text x="16" y="58" font-family="Manrope, Segoe UI, Arial, sans-serif" font-size="45" font-weight="800" fill="#17356C" letter-spacing="-1.2">Stay</text>
+  <text x="118" y="58" font-family="Manrope, Segoe UI, Arial, sans-serif" font-size="45" font-weight="800" fill="#14A84A" letter-spacing="-1.2">Ease</text>
+</svg>

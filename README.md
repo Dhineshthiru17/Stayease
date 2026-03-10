@@ -46,3 +46,22 @@ PORT=5000
 MONGO_URL=your_mongodb_connection_string
 JWT_SECRET=replace_with_a_long_random_secret
 FRONTEND_URL=http://localhost:5173
+
+
+## Screenshots
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Property Listings
+![Property Listings](screenshots/properties.png)
+
+### Booking Page
+![Booking Page](screenshots/booking.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### new user sign in
+![newuser page](screenshots/newuser.png)
+
